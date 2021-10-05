@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, my name is Michelle Navarrete👩‍💻</h1>
-<h3 align="center">I'm a frontend developer from Chile.</h3>
+<h3 align="center">I'm a web developer from Chile.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**. My intention is to become a Front End Developer by the end of the year.
 
 - 📫 How to reach me **michellenavarretej@gmail.com**
 
